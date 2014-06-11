@@ -1,0 +1,16 @@
+<section class="main_section" data-ng-controller="ResourcesController" data-ng-init="findOne()">
+    <div class="faq-text">
+    	<h1>Recursos</h1>
+    </div>
+    <div class="faq-box" ng-repeat="resource in resources">
+    	<div class="faq-question-box">
+    		<p><span class="faq-question">{{resource.title}}</span></p>
+    	</div>
+    	<div class="faq-answer-box">
+	    	<p>{{resource.link}}</p>
+	    </div>
+	</div>    
+</section>
+<footer>
+        <a class="foo" href="#!">INICIO</a>
+</footer>
