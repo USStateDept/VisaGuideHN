@@ -1,0 +1,52 @@
+<section class="main_section" data-ng-controller="ChecklistController" data-ng-init="findOne()">
+        <figure class="box_visaguide">
+            <img class="img_visaguide" src="img/visa_0007_Honduras.png">
+        </figure>
+        <div class="wrap_checklist">
+            <div class="visa_types">
+                <p>Tipo de visa: {{checklistVisaType}}</p>
+                <p>Abajo hay una lista de verificación de cosas que debería hacer y/o llevar antes de su entrevista para solicitar una visa. Esta lista se ha creado de acuerdo a las respuestas que usted ha escogido.</p>    
+            </div>
+            <div class="items_checklist" ng-repeat="checklistItem in checklistItems">
+                <div class="checkbox-tick">
+                    <input type="checkbox" name="check1" id="{{checklistItem.tip}}" value"check1"  ng-model="checklistItem.check">
+                    <label for="{{checklistItem.tip}}"></label>
+                    <div class="text-checklist">            
+                        <p>{{checklistItem.title}}</p>
+                    </div>            
+                    <img class="imgchecklist_arrow" src="img/checklist__0000_Shape-15-copy-2.png" align="right" ng-click="showTip = ! showTip;">
+                    <div class="tip" ng-show="showTip">                
+                        <p>{{checklistItem.tip}}</p>                
+                    </div>
+                </div>
+            </div>
+
+            <div class="items_checklist">            
+                    <button class="view-mail" name="viewMailSender" ng-click="showMail = ! showMail">
+                        <figure class="box_emailchecklist">
+                            <img class="img_emailchecklist" src="img/checklist__0003_mail-outgoing.png">
+                        </figure>
+                        <span class="text_emailchecklist">Enviar por correo electrónico este checklist</span>
+                        <figure class="box_arrowchecklist"> 
+                            <img class="img-arrowchecklist" src="img/checklist__0004_Shape-14.png" align"right">
+                        </figure>                     
+                    </button>
+                    <div class="mail-sender-wrap" ng-show="showMail">
+                        <div class="mail-sender-box">            
+                            <p>Ingresa tu dirección de correo electrónico para recibir una versión de tu lista de verificación.</p>
+                            <input align="middle" class="mail-input" type="text" placeholder="Enter email address" ng-model="textEmail">
+                            <button type="button" class="send-mail" name="sendMail" ng-click="emailSender(); showMessage = ! showMessage; open()">Enviar</button>               
+                        </div> 
+                       <!--<div ng-show="showMessage">
+                            <h4>Hemos enviado tu checklist a la dirección de correo electrónico ingresada.</h4>
+                        </div>-->
+                    </div>
+            </div>                  
+        </div>    
+</section>
+
+<footer>        
+    <div class="foo"><a href="#!/faq/1">PREGUNTAS</a></div>
+    <div class="foo-center"><a href="#!">INICIO</a></div>
+    <div class="foo"><a href="#!/resources/1">RECURSOS</a></div>          
+</footer>
