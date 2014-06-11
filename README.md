@@ -20,10 +20,15 @@ VisaGuide is available for free on the Android platform at the Google Play Store
 The FPU ran print ads in newspapers (example below) and used the Embassy’s Facebook and Twitter accounts to promote the app nationwide.  In the first three months of its launch in 2014, VisaGuide was downloaded 792 times, and attracted over 9,000 visitors to Embassy Tegucigalpa’s website.
 
 The table below shows statistics provided by Post’s Visa Call Center.  The numbers demonstrate that before the app was launched, there were many more calls from customers seeking help with the online NIV appointment scheduling process (October-December 2013).  They also reveal a significant decrease in calls for assistance coinciding with the period immediately after the finalized app was advertised (beginning January 2014).  There is a slight difference in the number of total applicants between the two timeframes (147 more, pre-app).
-                          Visa applicants	       Calls for assistance
+                          	       
 
-October – December  2013	    19,596	                 6,916
-January – March     2014	    19,449	                 3,639
+October – December  2013	    
+Visa applicants: 19,596	                 
+Calls for assistance: 6,916
+
+January – March     2014	    
+Visa applicants: 19,449	                 
+Calls for assistance: 3,639
     
 Tegucigalpa’s “VisaGuide” app is an official source of information for Hondurans who want to apply for non-immigrant visas to vacation, work, or study in the United States.  The app may be copied and customized, and used as an outreach tool to address post-specific application contexts and idiosyncrasies, and/or fraud concerns at any post worldwide.
 
