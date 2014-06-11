@@ -18,7 +18,7 @@
         "postinstall": "node node_modules/grunt-cli/bin/grunt install"
     },
     "dependencies": {
-        "express": "latest",
+        "express": "~3.4.8",
         "jade" : "latest",
         "mongoose": "latest",
         "underscore": "latest",

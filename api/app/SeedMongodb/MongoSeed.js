@@ -1,48 +1,46 @@
-var Seed = require('seed')
-  , MongoStore = require('seed-mongodb')
-  , store = new MongoStore({
-      db: 'hitchhikersguide'
-     , host: 'localhost'
-      , port: 3000
+var Seed = require('seed'),
+    MongoStore = require('seed-mongodb'),
+    store = new MongoStore({
+      db: 'hitchhikersguide',
+        host: 'localhost',
+        port: 3000
     });
 
-  var wizardQuestion = Seed.Model.extend('Question', {
-  store: store
-});
+  var wizardQuestion = Seed.Model.extend('Question', {store: store});
 
-var Question1 = new wizardQuestion {
+var Question1 = new wizardQuestion() {
 
 	 id: 1,
-    title: 'Question1',
-    tip: 'q_tip',
-    answers:[
+     title: 'Question1',
+     tip: 'q_tip',
+     answers:[
         {
             id : 1,
             title : 'answer1',
             tip : 'a_tip',
             next_question : 2,
             id_checklist : -1
-        }]
+        }],
 
-    ,answers:[
+    answers:[
         {
             id : 2,
             title : 'answer2',
             tip : 'a_tip',
             next_question : 3,
             id_checklist : -1
-        }]
-    ,answers:[
-    {
-    	id : 3,
-    	title :  'answer3',
-    	tip : 'a_tip',
-    	next_question : 4,
-    	id_checklist : -1
-    }
-    ]
+        }],
+    answers:[
+        {
+            id : 3,
+            title :  'answer3',
+            tip : 'a_tip',
+            next_question : 4,
+            id_checklist : -1
+        }
+    ],
 
-    ,answers:[
+    answers:[
     {
     	id : 4,
     	title :  'answer4',
@@ -51,17 +49,15 @@ var Question1 = new wizardQuestion {
     	id_checklist : -1
     }
     ]
-
-
 }
 Question1.save(function (err) {
   if (err) return console.error(err);
   console.log('Question1 has been saved!');
 });
 
-var Question2 = new wizardQuestion {
-	id 2,
-	title: 'Question2'
+var Question2 = new wizardQuestion{
+	id: 2,
+	title: 'Question2',
 	tip: 'a_tip2',
 	answers:[
     {
@@ -72,14 +68,14 @@ var Question2 = new wizardQuestion {
     	id_checklist : -1
     }
     ]
-}
+};
 
 Question1.save(function (err) {
   if (err) return console.error(err);
   console.log('Question2 has been saved!');
 });
 
-var Question3 = new wizardQuestion {
+var Question3 = new wizardQuestion{
 	id 3,
 	title: 'Question2'
 	tip: 'a_tip2',
@@ -380,7 +376,8 @@ var Question17 = new wizardQuestion {
     }
     ]
 
-}
+};
+
 Question1.save(function (err) {
   if (err) return console.error(err);
   console.log('Question17 has been saved!');
