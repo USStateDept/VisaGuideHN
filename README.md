@@ -14,7 +14,8 @@ Summary:  In 2014, the Fraud Prevention Unit (FPU) at Embassy Tegucigalpa launch
 5.       VisaGuide is available for free on the Android platform at the Google Play Store.  The app can also be viewed via computer at the dedicated website http://www.visaguidehn.com.  Post is also arranging for the deployment of an iPhone version, which will also make the app available in the Apple App Store.  
 6.       The FPU ran print ads in newspapers (example below) and used the Embassy’s Facebook and Twitter accounts to promote the app nationwide.  In the first three months of its launch in 2014, VisaGuide was downloaded 792 times, and attracted over 9,000 visitors to Embassy Tegucigalpa’s website.
 7.       The table below shows statistics provided by Post’s Visa Call Center.  The numbers demonstrate that before the app was launched, there were many more calls from customers seeking help with the online NIV appointment scheduling process (October-December 2013).  They also reveal a significant decrease in calls for assistance coinciding with the period immediately after the finalized app was advertised (beginning January 2014).  There is a slight difference in the number of total applicants between the two timeframes (147 more, pre-app).
-                            Visa applicants	       Calls for assistance
+                          Visa applicants	       Calls for assistance
+
 October – December  2013	    19,596	                 6,916
 January – March     2014	    19,449	                 3,639
     
