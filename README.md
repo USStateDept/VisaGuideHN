@@ -20,4 +20,5 @@ October – December 2013	19,596	6,916
 January – March 2014	19,449	3,639
  
 8.      Tegucigalpa’s “VisaGuide” app is an official source of information for Hondurans who want to apply for non-immigrant visas to vacation, work, or study in the United States.  The app may be copied and customized, and used as an outreach tool to address post-specific application contexts and idiosyncrasies, and/or fraud concerns at any post worldwide.
+
 COMMENT.  Consulates can use complementary technologies—in this case, an NIV smartphone app and social media—to convey and promote consular information and services to the widest audience possible.  Having a variety of deliverables increases a consular section’s overall efficiency, improves customer service, facilitates legitimate work and study in the United States, and helps boost U.S. tourism—all of which in turn contribute to Consular Affairs’ active participation in the Quadrennial Diplomacy and Development Review. 
