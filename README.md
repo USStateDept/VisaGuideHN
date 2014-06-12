@@ -31,8 +31,6 @@ The FPU ran print ads in newspapers (example below) and used the Embassy’s Fac
 
 The table below shows statistics provided by Post’s Visa Call Center.  The numbers demonstrate that before the app was launched, there were many more calls from customers seeking help with the online NIV appointment scheduling process (October-December 2013).  They also reveal a significant decrease in calls for assistance coinciding with the period immediately after the finalized app was advertised (beginning January 2014).  There is a slight difference in the number of total applicants between the two timeframes (147 more, pre-app).
   
-##Stats                 	       
-
 ###2013
 October – December  2013	    
 Visa applicants: 19,596	                 
