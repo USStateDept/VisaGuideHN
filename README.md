@@ -8,6 +8,11 @@ From 14 TEGUCIGALPA 428
 ##Summary    
 Tegucigalpa’s “VisaGuide” app is an official source of information for Hondurans who want to apply for non-immigrant visas to vacation, work, or study in the United States.  The app may be copied and customized, and used as an outreach tool to address post-specific application contexts and idiosyncrasies, and/or fraud concerns at any post worldwide.
 
+##Screen Shots
+
+![Home Screen](http://a2.mzstatic.com/us/r30/Purple/v4/0c/a4/09/0ca40945-34f4-b3c6-aaa7-8044a2c557b7/screen568x568.jpeg)
+![Question Screen](http://a5.mzstatic.com/us/r30/Purple4/v4/fd/ad/f7/fdadf740-b0f2-1cc5-ff69-ab9141eaffd9/screen568x568.jpeg)
+
 ##Description  
 In 2014, the Fraud Prevention Unit (FPU) at Embassy Tegucigalpa launched a smartphone application (app) called “VisaGuide.”  The Spanish-language app teaches non-immigrant visa (NIV) applicants about the visa application process and includes anti-fraud messaging to deter applicants from misrepresentation.  The app can be adapted for use by consulates worldwide.   
  
@@ -19,7 +24,7 @@ The app, designed by a locally-based software developer, walks NIV applicants th
 
 The app incorporates anti-fraud messaging at key points, such as when applicants are asked if they work.  Given the prevalence of false employment letters presented to consular officers at post, this question carries the following warning, regardless of the applicant’s answer:  “If you lie or present false documents you may be penalized under Honduran law and permanently denied entry into the United States.”  
 
-VisaGuide is available for free on the Android platform at the Google Play Store.  The app can also be viewed via computer at the dedicated website [http://www.visaguidehn.com](http://www.visaguidehn.com).  Post is also arranging for the deployment of an iPhone version, which will also make the app available in the Apple App Store.  
+VisaGuide is available for free on the Android platform at the [https://play.google.com/store/apps/details?id=com.acklenavenue.com](Google Play Store) and for the iPhone/iPad platform at the [https://itunes.apple.com/us/app/visaguidehn/id871222552?mt=8](Apple Store). The app can also be viewed via desktop web browser at the dedicated website [http://www.visaguidehn.com](http://www.visaguidehn.com). 
 
 The FPU ran print ads in newspapers (example below) and used the Embassy’s Facebook and Twitter accounts to promote the app nationwide.  In the first three months of its launch in 2014, VisaGuide was downloaded 792 times, and attracted over 9,000 visitors to Embassy Tegucigalpa’s website.
 
@@ -44,9 +49,9 @@ Consulates can use complementary technologies—in this case, an NIV smartphone 
 - Project Founder - Zennia Hancock, PhD
 - Project Manager - Byron Sommardahl of [Acklen Avenue](http://acklenavenue.com)
 - Developers:
--- Sharon Montenegro (TGU)
--- Frank Rodriguez (TGU)
--- Camilo Aguilar (SPS)
+  - Camilo Aguilar (San Pedro Sula, Honduras)
+  - Sharon Montenegro (Tegucigalpa, Honduras)
+  - Frank Rodriguez (Tegucigalpa, Honduras)
 
 #License
 
