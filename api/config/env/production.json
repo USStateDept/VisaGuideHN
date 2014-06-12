@@ -1,5 +1,5 @@
 {
-    "db" : "mongodb://apiuser:VisaGuide@ds051868.mongolab.com:51868/heroku_app18901933",
+    "db" : "mongodb://apiuser2:98HZGQovpt2@ds051868.mongolab.com:51868/heroku_app18901933",
     "app": {
         "name": "VisaGuideHN - Production"
     }

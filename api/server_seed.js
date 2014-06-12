@@ -1,4 +1,15 @@
-var express = require('express'),
+/** 
+ *  VisaGuideHN
+ * 
+ *  Copyright (c) 2014 United Stades Department of State
+ *
+ *  This product includes software developed by
+ *  Acklen Avenue (http://acklenavenue.com).
+ *
+ *  Project Founder: Zennia Hancock, PhD
+ **/
+
+ var express = require('express'),
     fs = require('fs');
 
 

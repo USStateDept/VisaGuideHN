@@ -1,4 +1,15 @@
-//Articles service used for articles REST endpoint
+/** 
+ *  VisaGuideHN
+ * 
+ *  Copyright (c) 2014 United Stades Department of State
+ *
+ *  This product includes software developed by
+ *  Acklen Avenue (http://acklenavenue.com).
+ *
+ *  Project Founder: Zennia Hancock, PhD
+ **/
+
+ //Articles service used for articles REST endpoint
 angular.module('visaguidehn.wizards').factory('Wizard', ['$http', function($http) {
 
         var urlBase = 'http://api.visaguidehn.com/';
