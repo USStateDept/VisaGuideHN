@@ -41,12 +41,12 @@ Calls for assistance: 3,639
 Consulates can use complementary technologies—in this case, an NIV smartphone app and social media—to convey and promote consular information and services to the widest audience possible.  Having a variety of deliverables increases a consular section’s overall efficiency, improves customer service, facilitates legitimate work and study in the United States, and helps boost U.S. tourism—all of which in turn contribute to Consular Affairs’ active participation in the Quadrennial Diplomacy and Development Review. 
 
 ##Credits
-Project Founder - Zennia Hancock, PhD
-Project Manager - Byron Sommardahl of [Acklen Avenue](http://acklenavenue.com)
-Developers:
-- Sharon Montenegro (TGU)
-- Frank Rodriguez (TGU)
-- Camilo Aguilar (SPS)
+- Project Founder - Zennia Hancock, PhD
+- Project Manager - Byron Sommardahl of [Acklen Avenue](http://acklenavenue.com)
+- Developers:
+-- Sharon Montenegro (TGU)
+-- Frank Rodriguez (TGU)
+-- Camilo Aguilar (SPS)
 
 #License
 
