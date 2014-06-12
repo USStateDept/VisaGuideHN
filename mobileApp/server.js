@@ -1,4 +1,15 @@
-var http = require('http'),
+/** 
+ *  VisaGuideHN
+ * 
+ *  Copyright (c) 2014 United Stades Department of State
+ *
+ *  This product includes software developed by
+ *  Acklen Avenue (http://acklenavenue.com).
+ *
+ *  Project Founder: Zennia Hancock, PhD
+ **/
+
+ var http = require('http'),
     fs = require('fs');
 
 var env = process.env.NODE_ENV = process.env.NODE_ENV || 'development',
