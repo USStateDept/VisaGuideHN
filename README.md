@@ -14,7 +14,7 @@ Tegucigalpa’s “VisaGuide” app is an official source of information for Hon
 &nbsp;
 ![Question Screen](http://a5.mzstatic.com/us/r30/Purple4/v4/fd/ad/f7/fdadf740-b0f2-1cc5-ff69-ab9141eaffd9/screen568x568.jpeg)
 
-##Description  
+##Background  
 In 2014, the Fraud Prevention Unit (FPU) at Embassy Tegucigalpa launched a smartphone application (app) called “VisaGuide.”  The Spanish-language app teaches non-immigrant visa (NIV) applicants about the visa application process and includes anti-fraud messaging to deter applicants from misrepresentation.  The app can be adapted for use by consulates worldwide.   
  
 In Honduras, many visa applicants have trouble understanding how to fill out the DS-160 (Online Nonimmigrant Visa Application), so they pay visa facilitators to do it for them (see reftel).  This opens the door to exploitation and increases the probability of fraud, since local facilitators often have ties to document vending rings.  
