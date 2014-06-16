@@ -6,5 +6,5 @@
  *  This product includes software developed by
  *  Acklen Avenue (http://acklenavenue.com).
  *
- *  Project Founder: Zennia Hancock, PhD
+ *  Project Founder: Zennia Hancock Paganini, PhD
  **/
